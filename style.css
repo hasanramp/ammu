@@ -1,0 +1,48 @@
+#logo {
+    margin-bottom: 0;
+}
+
+div.navbar {
+    text-align: center;
+    background-color: #55DFD0;
+    margin-top: 100;
+    margin-right: 0%;
+    margin-bottom: 0%;
+}
+
+ul.navbarItems {
+    list-style-type: none;
+    overflow: hidden;
+}
+
+li.navbarItemLogo {
+    font-size: 250%;
+    float: left;
+    
+}
+
+li.navbarItemLogo a {
+    display: block;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+    font-size: 150%;
+
+}
+li.navbarItemsList {
+    float: left;
+}
+li.navbarItemsList a {
+    display: block;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+    font-size: 130%;
+    padding-block: 25px;
+    border: none;
+
+}
+
+li a:hover {
+  background-color: #9CE8E2;
+}
